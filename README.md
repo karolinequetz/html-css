@@ -23,6 +23,7 @@ https://web.dio.me/home
 
 ![](./dio.me-html-css.png)
 
+
 ## Processo de desenvolvimento
 
 ### Construído com
@@ -33,4 +34,3 @@ https://web.dio.me/home
 ## Codificado por
 
 - LinkedIn - [@karolinequetz](https://www.linkedin.com/in/karolinequetz)
-
